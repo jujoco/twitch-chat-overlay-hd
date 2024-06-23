@@ -1,0 +1,16 @@
+# coverage
+coverage/
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variable files
+.env
+.env.local
+
+# Misc files
+.DS_Store
+.todo.md
+
+# notes
+devNotes.md
