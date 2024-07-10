@@ -46,14 +46,18 @@
 
 ## Customization settings
 
+You can customize the appearance of the chat overlay by changing the CSS code in the `chat.css` file.
 Use https://rgbcolorpicker.com to find the color you want.
 
--   **Font Color:** You can change the font color by changing the `color` property in the `chat.css`. (default: `#FFFFFF`)
+-   **Font Color:** You can change the font color by changing the `color` property. (default: `#ffffff`)
 
--   **Background Color:** You can change the background color by changing the `background-color` property in the `chat.css`. (default: `rbga(0, 0, 0, 0)`)
+-   **Background Color:** You can change the background color by changing the `background-color` property. (default: `rbga(0, 0, 0, 0)`)
 
--   **Font Size:** You can change the font size by changing the `font-size` property in the `chat.css`. (default: `28px`)
+-   **Font Size:** You can change the font size by changing the `font-size` property. (default: `28px`)
+
     -   don't go below `28px` or it will lose text clarity in OBS.
+
+-   **Link Color:** You can change the color of links posted in chat by changing the `color` property of the `a` selector. (default: `#ab80eb` - Twitch purple)
 
 ## Credits
 
