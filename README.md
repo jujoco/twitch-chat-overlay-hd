@@ -18,9 +18,14 @@
 ## Installation
 
 1. Open your OBS program & add a new Browser source to your scene.
+   image here
+   <image src="images/chat-overlay-part1.gif" width="600">
+
 2. Set a name for the source (ex. `Chat Overlay HD`) and click OK.
+   <image src="images/chat-overlay-part2.gif" width="600">
 3. Set the URL to `https://www.twitch.tv/popout/USERNAME/chat`
 4. replace `USERNAME` with your Twitch username.
+   <image src="images/chat-overlay-part3.gif" width="600">
 5. Set the width to `600` and the height to `600`. (adjust to your liking)
 6. Delete the code from within the Custom CSS section.
 7. Copy the code from the `chat.css` file and paste it into the Custom CSS section. Link to the file here -> [chat.css](./chat.css)
