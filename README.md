@@ -23,13 +23,26 @@
 
 2. Set a name for the source (ex. `Chat Overlay HD`) and click OK.
    <image src="images/chat-overlay-part2.gif" width="600">
+
 3. Set the URL to `https://www.twitch.tv/popout/USERNAME/chat`
+
 4. replace `USERNAME` with your Twitch username.
-   <image src="images/chat-overlay-part3.gif" width="600">
+
+ <image src="images/chat-overlay-part3.gif" width="600">
+
 5. Set the width to `600` and the height to `600`. (adjust to your liking)
+
 6. Delete the code from within the Custom CSS section.
+
 7. Copy the code from the `chat.css` file and paste it into the Custom CSS section. Link to the file here -> [chat.css](./chat.css)
-8. Click OK and you're done!
+
+ <image src="images/chat-overlay-part4.gif" width="600">
+
+8. Click OK to save and close the window.
+
+9. Last step! Right-click on the `Chat Overlay HD` source and click on `Interact`. The chat will appear in a new window - click on the cogwheel and select `Chat Appearance`. Set `font-size` to "Biggest" and set `Replies in Chat` to "Minimum". Close windows to save. Crop the bottom of the chat to remove the Twitch chat bar. Done!
+
+ <image src="images/chat-overlay-part5-final.gif" width="600">
 
 ## Customization settings
 
