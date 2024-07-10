@@ -34,7 +34,7 @@
 
 6. Delete the code from within the Custom CSS section.
 
-7. Copy all 43 lines of code from the `chat.css` file and paste it into the Custom CSS section. Link to the file here -> [chat.css](./chat.css)
+7. Copy all code from the [chat.css](./chat.css) file and paste it into the Custom CSS section. Link to the file here -> [chat.css](./chat.css)
 
  <image src="images/chat-overlay-part4.gif" width="600">
 
