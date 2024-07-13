@@ -29,6 +29,10 @@ section.chat-room > div > div:not(:nth-child(4)):not(:nth-child(6)) {
 	border-left: none !important;
 }
 
+/* ============ */
+/* Only Change Code Below */
+/* ============ */
+
 /* Message Styles */
 .chat-scrollable-area__message-container *:not(a) {
 	text-shadow: 1px 1px 0 #000, 1px 2px 2px #000 !important;
@@ -42,4 +46,17 @@ section.chat-room > div > div:not(:nth-child(4)):not(:nth-child(6)) {
 /* Link Color */
 a {
 	color: #ab80eb !important;
+}
+
+/* 
+ OPTIONAL - Hide your chatbot messages.
+ Replace chatbot-username with your bot's name. Must be in Lowercase! 
+ (example #1: StreamElements = streamelements) 
+ (example #2: Nightbot = nightbot) 
+
+ If you have multiple bots just duplicate the code below and 
+ replace chatbot-username with the other bot names.
+*/
+.chat-line__message[data-a-user="chatbot-username"] {
+	display: none !important;
 }
