@@ -36,6 +36,8 @@
 
 7. Copy all code from the [chat.css](./chat.css) file and paste it into the Custom CSS section. Link to the file here -> [chat.css](./chat.css)
 
+-   **OPTIONAL**: Hide your chatbot messages. Follow the instructions at the bottom of the [chat.css](./chat.css#52) file to learn how to hide chatbot messages.
+
  <image src="images/chat-overlay-part4.gif" width="600">
 
 8. Click OK to save and close the window.
